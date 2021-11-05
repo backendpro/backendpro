@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Caio!
 #### I am a software developer
-I'm software developer since 2012. I'm love my wife, my family, animes and I'm a Pokemon Master!
+I'm software developer since 2012. I love my wife, my family, animes and I'm a Pokemon Master!
 
 Skills: JAVA / SPRING / PYTHON / AWS / MICROSERVICES
 
