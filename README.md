@@ -78,7 +78,7 @@
 
 ## 👀 Perfil
 
-![Profile views](https://gpvc.arturio.dev/backendpro)
+<img src="https://gpvc.arturio.dev/backendpro" alt="Profile views" />
 
 ---
 
