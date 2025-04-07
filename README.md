@@ -76,11 +76,4 @@
 
 ---
 
-## 👀 Perfil
-
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCxxxxx?label=YouTube%20Subscribers&style=social)](https://www.youtube.com/c/CaioRodriguesBackEndJava)
-
-
----
-
 **Obrigado por visitar! Vamos codar juntos. 🚀**
